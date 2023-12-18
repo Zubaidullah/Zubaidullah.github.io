@@ -2,10 +2,11 @@ button {
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
-    margin: 8px 0px;
+    margin: 0 auto;
     border: none;
     cursor: pointer;
     width: 100%;
+    max-width: 200px;
     border-radius: 3px;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.3);
     border: solid 1px #4CAF50;
